@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.2.1](https://github.com/anvilproject/anvil-portal/compare/v2.2.0...v2.2.1) (2024-11-07)
+
+
+### Bug Fixes
+
+* update agenda anvil2024-community-conference.mdx ([#3326](https://github.com/anvilproject/anvil-portal/issues/3326)) ([9a18eac](https://github.com/anvilproject/anvil-portal/commit/9a18eacc71a2e139452d28526af78bffc0fe5e9a))
+
+
+### Chores
+
+* **main:** release 2.2.1 ([#3327](https://github.com/anvilproject/anvil-portal/issues/3327)) ([9244f5d](https://github.com/anvilproject/anvil-portal/commit/9244f5d0b062fe4b08603cb105145b0488efd476))
+
+
+### Continuous Integration
+
+* add additional changelog-sections for rp ([#3332](https://github.com/anvilproject/anvil-portal/issues/3332)) ([#3333](https://github.com/anvilproject/anvil-portal/issues/3333)) ([ed142f8](https://github.com/anvilproject/anvil-portal/commit/ed142f8293218352d7ee149de2463c893e199439))
+
 ## [2.2.1](https://github.com/anvilproject/anvil-portal/compare/v2.2.0...v2.2.1) (2024-11-05)
 
 
